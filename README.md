@@ -1,2 +1,4 @@
 # ImageJ-Macro
-Small macro for imageJ
+Small macros for imageJ.
+
+Feel free to use and distribute!
